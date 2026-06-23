@@ -4,7 +4,7 @@
 [![Framework: NIST AI RMF](https://img.shields.shields.io/badge/Framework-NIST%20AI%20RMF%201.0-blue)](https://www.nist.gov/itl/ai-risk-management-framework)
 [![Compliance: EU AI Act](https://img.shields.shields.io/badge/Compliance-EU%20AI%20Act%20Art%206-purple)](https://artificialintelligenceact.eu/)
 
-The viral `CLAUDE.md` trend proved that local context files can drastically improve AI coding behaviors. However, standard engineering files don't account for enterprise regulatory compliance, risk thresholds, or architectural drift.
+ The standard engineering files don't account for enterprise regulatory compliance, risk thresholds, or architectural drift.
 
 This repository provides an enterprise-grade extension framework—**`GOVERNANCE.md`** and **`RISK.md`**—designed to align autonomous terminal agents (such as Claude Code) and agentic multi-agent workflows with **NIST AI RMF 1.0** and **EU AI Act Article 6** controls directly at the repository root.
 
